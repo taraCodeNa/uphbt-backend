@@ -1,4 +1,4 @@
-﻿namespace Uphb.Domain;
+﻿namespace Uphbt.Data;
 
 public class Class1
 {
