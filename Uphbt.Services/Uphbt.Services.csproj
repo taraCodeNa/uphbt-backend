@@ -1,5 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\Uphbt.Data\Uphbt.Data.csproj" />
+    <ProjectReference Include="..\Uphbt.Domain\Uphbt.Domain.csproj" />
+    <ProjectReference Include="..\Uphbt.Contracts\Uphbt.Contracts.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

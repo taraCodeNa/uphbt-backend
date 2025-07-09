@@ -13,4 +13,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Uphbt.Services\Uphbt.Services.csproj" />
+    <ProjectReference Include="..\Uphbt.Contracts\Uphbt.Contracts.csproj" />
+  </ItemGroup>
+
 </Project>
