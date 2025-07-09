@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uphbt.Data", "Uphbt.Data\Up
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uphbt.Domain", "Uphbt.Domain\Uphbt.Domain.csproj", "{DCA6B879-A24B-4666-8474-1169601F3E9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uphbt.Contracts", "Uphbt.Contracts\Uphbt.Contracts.csproj", "{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{DCA6B879-A24B-4666-8474-1169601F3E9B}.Release|x64.Build.0 = Release|Any CPU
 		{DCA6B879-A24B-4666-8474-1169601F3E9B}.Release|x86.ActiveCfg = Release|Any CPU
 		{DCA6B879-A24B-4666-8474-1169601F3E9B}.Release|x86.Build.0 = Release|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Debug|x64.Build.0 = Debug|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Debug|x86.Build.0 = Debug|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Release|x64.ActiveCfg = Release|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Release|x64.Build.0 = Release|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Release|x86.ActiveCfg = Release|Any CPU
+		{26EB8BDE-0540-4D47-BDFC-0ACD8E0FAD05}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
