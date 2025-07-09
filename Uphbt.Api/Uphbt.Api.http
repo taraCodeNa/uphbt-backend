@@ -1,0 +1,6 @@
+@Uphbt.Api_HostAddress = http://localhost:5254
+
+GET {{Uphbt.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
