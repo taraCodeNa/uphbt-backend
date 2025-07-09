@@ -4,6 +4,7 @@
     <ProjectReference Include="..\Uphbt.Data\Uphbt.Data.csproj" />
     <ProjectReference Include="..\Uphbt.Domain\Uphbt.Domain.csproj" />
     <ProjectReference Include="..\Uphbt.Contracts\Uphbt.Contracts.csproj" />
+    <ProjectReference Include="..\Uphbt.Identity\Uphbt.Identity.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
